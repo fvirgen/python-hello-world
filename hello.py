@@ -3,7 +3,12 @@
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
+print("Hello")
+print("Hello, World!")
+print(3)
+print(3+5)
+print("You have to save the file in order for the code to work.")
+
 
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
